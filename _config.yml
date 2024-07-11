@@ -27,7 +27,7 @@ twitter_username: SA0_XDZ03
 github_username:  SA0-XDZ03
 
 # Build settings
-theme: hitchens-theme
+theme: minima
 plugins:
   - jekyll-feed
 
