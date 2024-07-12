@@ -1,1 +1,1 @@
-# SA0-XDZ03 - InfoSec Blog
+# SA0-XDZ03's InfoSec Blog

@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SA0-XDZ03 InfoSec
+title: SA0-XDZ03's InfoSec Blog
 email: dabz3.0@protonmail.com
-description: ### Welcome to SA0-XDZ03 InfoSec
+description: Welcome to My InfoSec Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://xdz-infosec.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SA0_XDZ03
 github_username:  SA0-XDZ03
 
